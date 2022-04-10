@@ -1,0 +1,35 @@
+body{
+    background-color: #212F3D;
+    color: white;
+    /* text-transform: uppercase; */
+    /* font-weight: lighter; */
+}
+
+.marge{
+    margin-top: 4vh;
+}
+
+
+.imgDesc{
+    /* margin-right: 10px; */
+    width: 150px;
+}
+
+.imgPosition{
+    margin-left: 45%;
+}
+
+#hr1{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.link{
+    color: #9b8e8e;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+.link:hover{
+    color: brown;
+    /* text-decoration: underline; */
+}
