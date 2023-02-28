@@ -8,7 +8,7 @@ if($ville == null){
 
 
 
-$url = "http://api.openweathermap.org/data/2.5/weather?q=$ville&lang=fr&units=metric&appid=2609b3c27b0ab273198602368dd0ead6";
+$url = "http://api.openweathermap.org/data/2.5/weather?q=$ville&lang=fr&units=metric&appid=";
 
 //recuperer le contenue de l'API :
 $raw = file_get_contents($url);
